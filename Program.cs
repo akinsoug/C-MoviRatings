@@ -1,5 +1,5 @@
 ﻿/*
- * Name: Adjoavi Kinsougbo (Esther)
+ * Name: (Esther)
  *C# app to simulate a Hollywood Movie Rating.
  */
 using System;
